@@ -4,3 +4,6 @@ This repo is for the [Maker Advent Calendar - The 12 Projects of Codemas](https:
 
 ## Day 1 - Getting Started!
 Setting up the Raspberry Pi Pico H, installing and configuring Thonny, and writing code to turn the onboard LED on and off.
+
+## Day 2 - Let's Get Blinky!
+Basic circuits in the [breadboard](https://wiring.org.co/learning/tutorials/breadboard/). LEDs and their polarity: long leg, anode `+`; short leg, cathode `-`. Resistors and where to use them. Indentation and `while` loops in Python. Creating a circuit with 3 LEDs and 3 resistors, and writing code to turn these LEDs on and off.
