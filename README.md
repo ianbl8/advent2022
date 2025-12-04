@@ -10,3 +10,6 @@ Basic circuits in the [breadboard](https://wiring.org.co/learning/tutorials/brea
 
 ## Day 3 - Bashing Buttons!
 Adding buttons to circuits, and using pull downs to ensure voltage is low to start with. Conditions (`if`, `elif`, `else`) - and toggling values.
+
+## Day 4 - Amazing Analogue!
+Analogue signals, adding potentiometers to circuits and using built-in analogue to digital converters (ADC). Controlling LEDs with analogue signals. Using Pulse Width Modulation (PWM) to control LED brightness.
