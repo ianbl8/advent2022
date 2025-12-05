@@ -13,3 +13,6 @@ Adding buttons to circuits, and using pull downs to ensure voltage is low to sta
 
 ## Day 4 - Amazing Analogue!
 Analogue signals, adding potentiometers to circuits and using built-in analogue to digital converters (ADC). Controlling LEDs with analogue signals. Using Pulse Width Modulation (PWM) to control LED brightness.
+
+## Day 5 - Hear My Code!
+Adding a buzzer and using PWM to control frequency and volume. Using the potentiometer to control volume. Using functions to avoid repeating code, and arguments with default values. Jingle Bells, and Never Gonna Give You Up
